@@ -8,8 +8,8 @@ import 'package:assess_me/form.dart';
 
 mailer() async {
   //Safe this
-  String username = 'vishalcomcast99@gmail.com';
-  String password = 'Comcast99!';
+  String username = '@gmail.com';
+  String password = '';
 
   final smtpServer = gmail(username, password);
   // Use the SmtpServer class to configure an SMTP server:
