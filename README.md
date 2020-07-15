@@ -23,3 +23,5 @@ First level of interview wait time in a organisation is always huge, so I have c
 Hope i make this app highly dynamic so user can select the role he's applying for and will be assessed accordingly in a dynamic fashion.!
 
 >>>>>>> 71cebb58cb1cbd060f38361ea01570655fdcc31c
+
+Check the Screenshot folder for picture of the application
